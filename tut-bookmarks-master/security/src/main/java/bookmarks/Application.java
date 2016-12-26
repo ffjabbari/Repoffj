@@ -59,9 +59,11 @@ public class Application {
 			}
 
 			public void init(FilterConfig filterConfig) {
+				//test1
 			}
 
 			public void destroy() {
+				//test1
 			}
 		});
 	}
